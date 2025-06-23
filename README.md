@@ -1,4 +1,4 @@
-# electrical_theft_detection_and_monitoring_system
+# Electrical_theft_detection_and_monitoring_system
 PROJECT TITLE - Real Time Electrical Theft Monitoring and Detection System using GSM Technology
 
 INTRODUCTION - Electricity theft through meter tampering, illegal connections, and bypassing meters causes revenue losses and disrupts power supply management, leading to operational 
